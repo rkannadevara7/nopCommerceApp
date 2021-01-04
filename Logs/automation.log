@@ -1,0 +1,133 @@
+2020-12-29 22:52:50,905 - root - INFO - ************Verifying Login test*************
+2020-12-29 22:52:51,929 - root - INFO - ************Test_001_Login*************
+2020-12-29 22:52:51,929 - root - INFO - ************Verify home page title*************
+2020-12-29 22:52:58,685 - root - INFO - ************Home page title test is passed*************
+2020-12-29 22:52:59,114 - root - INFO - ************Login test is passed*************
+2020-12-30 10:50:39,884 - root - INFO - ************Test_001_Login*************
+2020-12-30 10:50:39,884 - root - INFO - ************Verify home page title*************
+2020-12-30 10:51:20,459 - root - INFO - ************Home page title test is passed*************
+2020-12-30 10:51:25,061 - root - INFO - ************Verifying Login test*************
+2020-12-30 10:51:42,045 - root - INFO - ************Login test is passed*************
+2020-12-30 11:55:46,678 - root - INFO - **********Test_002_DDT_Login****************
+2020-12-30 11:55:46,679 - root - INFO - ************Verifying Login DDT test*************
+2020-12-30 12:00:54,850 - root - INFO - **********Test_002_DDT_Login****************
+2020-12-30 12:00:54,850 - root - INFO - ************Verifying Login DDT test*************
+2020-12-30 12:03:55,530 - root - INFO - **********Test_002_DDT_Login****************
+2020-12-30 12:03:55,530 - root - INFO - ************Verifying Login DDT test*************
+2020-12-30 12:04:10,680 - root - INFO - ********passed*************
+2020-12-30 12:04:19,429 - root - INFO - **********Passed***********
+2020-12-30 12:06:35,073 - root - INFO - **********Test_002_DDT_Login****************
+2020-12-30 12:06:35,073 - root - INFO - ************Verifying Login DDT test*************
+2020-12-30 12:06:52,667 - root - INFO - ********passed*************
+2020-12-30 12:07:01,490 - root - INFO - **********Passed***********
+2020-12-30 12:07:07,535 - root - INFO - **********Passed***********
+2020-12-30 12:07:13,514 - root - INFO - **********Passed***********
+2020-12-30 12:07:13,514 - root - INFO - *********Login DDT Test is passed**********
+2020-12-30 12:07:13,994 - root - INFO - *********End of Login DDT Test**********
+2020-12-30 12:07:13,995 - root - INFO - *********Completed Test_002_DDT_Login test case**********
+2020-12-30 22:50:24,539 - root - INFO - ************Test_003_AddCustomer*************
+2020-12-30 22:50:38,471 - root - INFO - *************Login Successful*********
+2020-12-30 22:50:38,471 - root - INFO - *************Starting Add Customer test********
+2020-12-30 22:50:44,146 - root - INFO - ***********Providing customer info************
+2020-12-30 22:53:52,019 - root - INFO - ************Test_003_AddCustomer*************
+2020-12-30 22:54:05,748 - root - INFO - *************Login Successful*********
+2020-12-30 22:54:05,748 - root - INFO - *************Starting Add Customer test********
+2020-12-30 22:54:12,201 - root - INFO - ***********Providing customer info************
+2020-12-31 11:08:28,250 - root - INFO - ************Test_003_AddCustomer*************
+2020-12-31 11:08:37,496 - root - INFO - *************Login Successful*********
+2020-12-31 11:08:37,497 - root - INFO - *************Starting Add Customer test********
+2020-12-31 11:08:42,300 - root - INFO - ***********Providing customer info************
+2020-12-31 11:16:20,897 - root - INFO - ************Test_003_AddCustomer*************
+2020-12-31 11:16:34,548 - root - INFO - *************Login Successful*********
+2020-12-31 11:16:34,548 - root - INFO - *************Starting Add Customer test********
+2020-12-31 11:16:39,412 - root - INFO - ***********Providing customer info************
+2020-12-31 11:29:54,878 - root - INFO - ************Test_003_AddCustomer*************
+2020-12-31 11:30:08,913 - root - INFO - *************Login Successful*********
+2020-12-31 11:30:08,913 - root - INFO - *************Starting Add Customer test********
+2020-12-31 11:30:58,176 - root - INFO - ************Test_003_AddCustomer*************
+2020-12-31 11:31:09,778 - root - INFO - *************Login Successful*********
+2020-12-31 11:31:09,778 - root - INFO - *************Starting Add Customer test********
+2020-12-31 11:34:01,760 - root - INFO - ************Test_003_AddCustomer*************
+2020-12-31 11:34:14,246 - root - INFO - *************Login Successful*********
+2020-12-31 11:34:14,246 - root - INFO - *************Starting Add Customer test********
+2020-12-31 11:34:19,076 - root - INFO - ***********Providing customer info************
+2020-12-31 11:36:53,655 - root - INFO - ************Test_003_AddCustomer*************
+2020-12-31 11:37:06,956 - root - INFO - *************Login Successful*********
+2020-12-31 11:37:06,956 - root - INFO - *************Starting Add Customer test********
+2020-12-31 11:37:12,780 - root - INFO - ***********Providing customer info************
+2020-12-31 11:45:20,036 - root - INFO - ************Test_003_AddCustomer*************
+2020-12-31 11:45:31,669 - root - INFO - *************Login Successful*********
+2020-12-31 11:45:31,669 - root - INFO - *************Starting Add Customer test********
+2020-12-31 11:45:38,643 - root - INFO - ***********Providing customer info************
+2020-12-31 11:45:50,470 - root - INFO - **********Saving Customer Info**********
+2020-12-31 11:45:50,470 - root - INFO - **********Add Customer Validation Started*********
+2020-12-31 11:45:50,674 - root - INFO - ******Add Customer test passed
+2020-12-31 11:45:50,999 - root - INFO - *******Ending Add Customer test case ************
+2020-12-31 12:34:33,051 - root - INFO - ************Test_004_SearchCustomerByEmail*************
+2020-12-31 12:34:45,937 - root - INFO - **************Login Successful****************
+2020-12-31 12:34:45,937 - root - INFO - ***************Navigating to Search Customer page****************
+2020-12-31 12:34:49,778 - root - INFO - ***********Starting Search Customer by Email ID***************
+2020-12-31 12:37:04,213 - root - INFO - ************Test_004_SearchCustomerByEmail*************
+2020-12-31 12:37:15,626 - root - INFO - **************Login Successful****************
+2020-12-31 12:37:15,626 - root - INFO - ***************Navigating to Search Customer page****************
+2020-12-31 12:37:20,349 - root - INFO - ***********Starting Search Customer by Email ID***************
+2020-12-31 12:41:15,445 - root - INFO - ************Test_004_SearchCustomerByEmail*************
+2020-12-31 12:41:29,379 - root - INFO - **************Login Successful****************
+2020-12-31 12:41:29,379 - root - INFO - ***************Navigating to Search Customer page****************
+2020-12-31 12:41:32,832 - root - INFO - ***********Starting Search Customer by Email ID***************
+2020-12-31 12:41:38,164 - root - INFO - *********TC_Test_004_SearchCustomerByEmail is finished************
+2020-12-31 12:45:22,398 - root - INFO - ************Test_005_SearchCustomerByName*************
+2020-12-31 12:45:34,174 - root - INFO - **************Login Successful****************
+2020-12-31 12:45:34,174 - root - INFO - ***************Navigating to Search Customer page****************
+2020-12-31 12:45:37,934 - root - INFO - ***********Starting Search Customer by Name***************
+2020-12-31 12:45:43,602 - root - INFO - *********TC_Test_005_SearchCustomerByName is finished************
+2021-01-04 12:09:20,170 - root - INFO - ************Test_003_AddCustomer*************
+2021-01-04 12:09:20,170 - root - INFO - ************Test_003_AddCustomer*************
+2021-01-04 12:09:20,170 - root - INFO - ************Test_003_AddCustomer*************
+2021-01-04 12:09:20,170 - root - INFO - ************Test_003_AddCustomer*************
+2021-01-04 12:09:20,170 - root - INFO - ************Test_003_AddCustomer*************
+2021-01-04 12:09:34,139 - root - INFO - *************Login Successful*********
+2021-01-04 12:09:34,139 - root - INFO - *************Login Successful*********
+2021-01-04 12:09:34,139 - root - INFO - *************Login Successful*********
+2021-01-04 12:09:34,139 - root - INFO - *************Login Successful*********
+2021-01-04 12:09:34,139 - root - INFO - *************Login Successful*********
+2021-01-04 12:09:34,139 - root - INFO - *************Starting Add Customer test********
+2021-01-04 12:09:34,139 - root - INFO - *************Starting Add Customer test********
+2021-01-04 12:09:34,139 - root - INFO - *************Starting Add Customer test********
+2021-01-04 12:09:34,139 - root - INFO - *************Starting Add Customer test********
+2021-01-04 12:09:34,139 - root - INFO - *************Starting Add Customer test********
+2021-01-04 12:09:43,236 - root - INFO - ***********Providing customer info************
+2021-01-04 12:09:43,236 - root - INFO - ***********Providing customer info************
+2021-01-04 12:09:43,236 - root - INFO - ***********Providing customer info************
+2021-01-04 12:09:43,236 - root - INFO - ***********Providing customer info************
+2021-01-04 12:09:43,236 - root - INFO - ***********Providing customer info************
+2021-01-04 12:09:57,998 - root - INFO - **********Saving Customer Info**********
+2021-01-04 12:09:57,998 - root - INFO - **********Saving Customer Info**********
+2021-01-04 12:09:57,998 - root - INFO - **********Saving Customer Info**********
+2021-01-04 12:09:57,998 - root - INFO - **********Saving Customer Info**********
+2021-01-04 12:09:57,998 - root - INFO - **********Saving Customer Info**********
+2021-01-04 12:09:57,999 - root - INFO - **********Add Customer Validation Started*********
+2021-01-04 12:09:57,999 - root - INFO - **********Add Customer Validation Started*********
+2021-01-04 12:09:57,999 - root - INFO - **********Add Customer Validation Started*********
+2021-01-04 12:09:57,999 - root - INFO - **********Add Customer Validation Started*********
+2021-01-04 12:09:57,999 - root - INFO - **********Add Customer Validation Started*********
+2021-01-04 12:09:58,246 - root - INFO - ******Add Customer test passed
+2021-01-04 12:09:58,246 - root - INFO - ******Add Customer test passed
+2021-01-04 12:09:58,246 - root - INFO - ******Add Customer test passed
+2021-01-04 12:09:58,246 - root - INFO - ******Add Customer test passed
+2021-01-04 12:09:58,246 - root - INFO - ******Add Customer test passed
+2021-01-04 12:09:58,868 - root - INFO - *******Ending Add Customer test case ************
+2021-01-04 12:09:58,868 - root - INFO - *******Ending Add Customer test case ************
+2021-01-04 12:09:58,868 - root - INFO - *******Ending Add Customer test case ************
+2021-01-04 12:09:58,868 - root - INFO - *******Ending Add Customer test case ************
+2021-01-04 12:09:58,868 - root - INFO - *******Ending Add Customer test case ************
+2021-01-04 12:10:03,236 - root - INFO - ************Verifying Login test*************
+2021-01-04 12:10:03,236 - root - INFO - ************Verifying Login test*************
+2021-01-04 12:10:03,236 - root - INFO - ************Verifying Login test*************
+2021-01-04 12:10:03,236 - root - INFO - ************Verifying Login test*************
+2021-01-04 12:10:03,236 - root - INFO - ************Verifying Login test*************
+2021-01-04 12:10:16,662 - root - INFO - ************Login test is passed*************
+2021-01-04 12:10:16,662 - root - INFO - ************Login test is passed*************
+2021-01-04 12:10:16,662 - root - INFO - ************Login test is passed*************
+2021-01-04 12:10:16,662 - root - INFO - ************Login test is passed*************
+2021-01-04 12:10:16,662 - root - INFO - ************Login test is passed*************
